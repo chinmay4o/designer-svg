@@ -19,7 +19,7 @@ body{
 
 #logo{
 
-    animation: fill1 7s ease forwards 6s;
+    animation: fill1 5s ease forwards 5s;
 }
 
 @keyframes fill1 {
