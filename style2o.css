@@ -34,22 +34,22 @@ body{
 
 
 #logo path:nth-child(1){
-    stroke-dasharray: 53;
+    stroke-dasharray: 553;
     stroke-dashoffset: 553;
     animation: line-ani 2s ease forwards; 
 }
 #logo path:nth-child(2){
-    stroke-dasharray: 49;
+    stroke-dasharray: 490;
     stroke-dashoffset: 490;
     animation: line-ani 2s ease forwards .3s; 
 }
 #logo path:nth-child(3){
-    stroke-dasharray: 46;
+    stroke-dasharray: 416;
     stroke-dashoffset: 416;
     animation: line-ani 2s ease forwards .6s; 
 }
 #logo path:nth-child(4){
-    stroke-dasharray: 57;
+    stroke-dasharray: 257;
     stroke-dashoffset: 257;
     animation: line-ani 2s ease forwards .9s; 
 }
@@ -75,9 +75,7 @@ body{
 }
 
 @keyframes line-ani {
-    /* from{
-        
-    } */
+ 
     to{
         stroke-dasharray: 2;
         stroke-dashoffset: 0;
